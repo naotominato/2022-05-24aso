@@ -89,6 +89,10 @@ a {
   opacity: 0.8;
 }
 
+.header__menu {
+  display: none;
+}
+
 /*----------firstview----------*/
 
 .service__firstview {

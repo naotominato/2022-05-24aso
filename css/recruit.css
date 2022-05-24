@@ -84,12 +84,15 @@ a {
 }
 
 .header__nav-list-link {
-  font-weight: bold;
   color: #000;
 }
 
 .header__nav-list-link:hover {
   opacity: 0.8;
+}
+
+.header__menu {
+  display: none;
 }
 
 /*----------firstview----------*/
